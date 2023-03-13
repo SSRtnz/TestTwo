@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func ButtonOfPrintTest(_ sender: Any) {
+        print("kow pad ka pow")
+    }
 }
 
